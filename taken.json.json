@@ -1,0 +1,214 @@
+{
+  "tasks": [
+    {
+      "id": "daily_dishes",
+      "name": "put dishes away",
+      "category": "daily"
+    },
+    {
+      "id": "daily_dishwasher",
+      "name": "dishwasher",
+      "category": "daily"
+    },
+    {
+      "id": "daily_tidy",
+      "name": "tidy up",
+      "category": "daily"
+    },
+    {
+      "id": "weekly_vacuum",
+      "name": "vacuum clean 2x",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_dishes_hand",
+      "name": "dishes by hand",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_wipe_kitchen",
+      "name": "wipe surfaces kitchen (stove)",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_wipe_tables",
+      "name": "wipe tables",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_towels",
+      "name": "laundry wash - Towels",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_sports",
+      "name": "laundry wash - Sports",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_regular",
+      "name": "laundry wash - Regular",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_fold",
+      "name": "laundry fold",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_put_away",
+      "name": "laundry put away",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_menu",
+      "name": "what do we want to eat (put on blackboard)",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_groceries",
+      "name": "order groceries",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_groceries_away",
+      "name": "put groceries away",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_cook",
+      "name": "cook",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_plants_inside",
+      "name": "water plants inside",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_plants_outside",
+      "name": "water plants outside",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_garbage",
+      "name": "garbage",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_mail",
+      "name": "open mail",
+      "category": "weekly"
+    },
+    {
+      "id": "weekly_unpack",
+      "name": "unpack bags within 24h",
+      "category": "weekly"
+    },
+    {
+      "id": "biweekly_toilet",
+      "name": "clean toilet",
+      "category": "biweekly"
+    },
+    {
+      "id": "biweekly_sheets",
+      "name": "wash sheets",
+      "category": "biweekly"
+    },
+    {
+      "id": "biweekly_waldo_bed",
+      "name": "wash Waldo's bed",
+      "category": "biweekly"
+    },
+    {
+      "id": "biweekly_vacuum_filters",
+      "name": "clean filters of vacuum cleaners",
+      "category": "biweekly"
+    },
+    {
+      "id": "biweekly_green_bin",
+      "name": "wash greenwaste bin",
+      "category": "biweekly"
+    },
+    {
+      "id": "monthly_bathroom",
+      "name": "clean bathroom + shower + sink",
+      "category": "monthly"
+    },
+    {
+      "id": "monthly_dishwasher_maintain",
+      "name": "maintain dishwasher with soda, hot program",
+      "category": "monthly"
+    },
+    {
+      "id": "monthly_laundry_maintain",
+      "name": "maintain laundry machine with soda, hot program",
+      "category": "monthly"
+    },
+    {
+      "id": "monthly_car_inside",
+      "name": "clean car inside",
+      "category": "monthly"
+    },
+    {
+      "id": "monthly_dedust",
+      "name": "dedust livingroom, bedroom",
+      "category": "monthly"
+    },
+    {
+      "id": "monthly_spiderwebs",
+      "name": "collect spiderwebs",
+      "category": "monthly"
+    },
+    {
+      "id": "monthly_garden",
+      "name": "maintain garden (weed, clip, plant)",
+      "category": "monthly"
+    },
+    {
+      "id": "monthly_couch",
+      "name": "dehair couch",
+      "category": "monthly"
+    },
+    {
+      "id": "quarterly_oven",
+      "name": "clean oven",
+      "category": "quarterly"
+    },
+    {
+      "id": "quarterly_fridge",
+      "name": "clean fridge",
+      "category": "quarterly"
+    },
+    {
+      "id": "quarterly_windows",
+      "name": "clean windows",
+      "category": "quarterly"
+    },
+    {
+      "id": "quarterly_mop",
+      "name": "mop floor",
+      "category": "quarterly"
+    },
+    {
+      "id": "quarterly_repot",
+      "name": "repot plants",
+      "category": "quarterly"
+    },
+    {
+      "id": "quarterly_declutter",
+      "name": "declutter",
+      "category": "quarterly"
+    },
+    {
+      "id": "quarterly_waldo_walls",
+      "name": "clean walls, bed from Waldo's fluids",
+      "category": "quarterly"
+    },
+    {
+      "id": "quarterly_car",
+      "name": "car",
+      "category": "quarterly"
+    }
+  ]
+}
